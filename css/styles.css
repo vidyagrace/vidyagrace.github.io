@@ -369,10 +369,10 @@ background: none;
     }
 
 .heading { 
-    padding: 0px 0px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-    display: block;
+    padding: 0 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    display: none;
 }
 
     .heading p {
