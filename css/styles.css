@@ -412,11 +412,6 @@ background: none;
 .secPad{
 	padding:60px 0;
 }
-/*Intro Content*/
-#introText {
-padding:50px 0;
-background:#fff;
-}
 
 #aboutUs .txtHead{
 background:#fff;
@@ -428,8 +423,8 @@ color: #5E5E5E;
 }
 #aboutUs .image-center
 {
-	width:"246";
-	height:"246";
+	width: 246px;
+	height: 246px;
 }
 .tileBox p{
     background-color: #f0f0f0;
