@@ -426,6 +426,11 @@ padding:20px 10px;
 font-size: 58px;
 color: #5E5E5E;
 }
+#aboutUs .image-center
+{
+	width="246";
+	height=246;
+}
 .tileBox p{
     background-color: #f0f0f0;
 font-size: 15px;
