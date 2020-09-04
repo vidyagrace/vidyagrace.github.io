@@ -369,9 +369,9 @@ background: none;
     }
 
 .heading { 
-    padding: 3px 10px;
-    padding-bottom: 15px;
-    margin-bottom: 30px;
+    padding: 0px 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
     display: block;
 }
 
